@@ -1,0 +1,56 @@
+h1 {
+  /*text-align: center;
+  background-color: grey;*/
+  color: rgb(20, 66, 219);
+}
+
+h2 {
+  color: deeppink;
+}
+
+h3 {
+  /*text-align: center;*/
+  color: rgb(18, 15, 56);
+}
+
+img {
+  box-shadow: 10px 10px 5px black;
+}
+
+section {
+  /*text-align: center;*/
+  background-color:rgb(166, 204, 206);
+}
+
+.Bootcamp{
+  background-color:rgb(166, 204, 215);
+}
+
+
+table {
+  text-align: center;
+  background-color:rgb(168, 212, 233);
+}
+
+/*.center {
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+p {
+  font-size: 12px;
+  color: gray;
+}
+
+/*
+ul {
+  text-align: center;
+  border-style: solid;
+  color: blue;
+  
+}
+
+ol {
+  text-align: center;
+}
+*/
